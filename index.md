@@ -4,7 +4,8 @@
 
 ### Category Name 1 
 
-[Deep NLP for Disaster Tweets detection](http://example.com/)
+<h3>Deep NLP for Disaster Tweets detection</h3>
+<p></p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -13,11 +14,12 @@
 In this project, I used the chi-square test and ANOVA F-statistics test for feature selection and re-engineered the features by analyzing Weight-of-Evidence. I applied Logistic Regression for predicting the probability of default and developed a Credit Scorecard. Finally, set a loan cut-off to strike a fine balance between credit scores and approval/rejection rates.</p> 
 
 ---
-[Marketing Analysis for Customer Segmentation](/pdf/sample_presentation.pdf)
+<h3>Marketing Analysis for Customer Segmentation</h3>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Customer Churn Prediction and Prevention using Survival Analysis](http://example.com/)
+<h3>Customer Churn Prediction and Prevention using Survival Analysis</h3>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
