@@ -23,7 +23,7 @@ In this project, I used the chi-square test and ANOVA F-statistics test for feat
 
 Segmented Customers based on their behavior into loyal, new, and Churned customers from 10,000 sampled Online Retail data from Kaggle. In this project, I used K-means algorithm to perform the grouping of customers.
 
-<img src="images/Cust_Segment.png?raw=true" height="350"/>
+<img src="images/Cust_Segment.png?raw=true" height="300"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/KMEANS-white?logo=KMEANS)](#)
 
