@@ -2,11 +2,15 @@
 
 ---
 
-### Deep NLP for Disaster Tweets detection 
+### Natural Language Processing with Disaster Tweets Challenge: Deep Learning with BERT, data preprocessing with NLP.
 
-<p></p>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-[![] (https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
+The Natural Language Processing with Disaster Tweets Challenge is a predictive modeling challenge on Kaggle. In this challenge, participants are asked to predict which Tweets are about real disasters and which ones are not.
+
+As a part of Data Science Olympians 2023 for Women in Big Data, I took part in this challenge with a team using Deep Learning and NLP techniques including: (i) cleaning data text with lemmatization and pre-processing using TFIDF (ii) analyzing data (iii) modeling data with Logistic Regression, XGBoost, MLP, transformers, and BERT.
+
+<img src="images/Diasater_tweets.png?raw=true" height="280"/>
+
+[View code on Colab](https://colab.research.google.com/drive/1A3k4fnIB35JXjbteRTUoQs-RqIkvhcZf?usp=sharing)
 
 ---
 ### Credit Risk Modeling and Scorecard Development
