@@ -8,7 +8,7 @@ The Natural Language Processing with Disaster Tweets Challenge is a predictive m
 
 As a part of Data Science Olympians 2023 for Women in Big Data, I took part in this challenge with a team using Deep Learning and NLP techniques including: (i) cleaning data text with lemmatization and pre-processing using TFIDF (ii) analyzing data (iii) modeling data with Logistic Regression, XGBoost, MLP, transformers, and BERT.
 
-<img src="images/Diasater_tweets.png?raw=true" height="280"/>
+<img src="images/Diasater_tweets.png?raw=true"/>
 
 [View code on Colab](https://colab.research.google.com/drive/1A3k4fnIB35JXjbteRTUoQs-RqIkvhcZf?usp=sharing)
 
