@@ -65,7 +65,7 @@ In this project, I used road accident data to answer questions such as No. of ca
 
 [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#) 
 
-[View on PowerBI](https://colab.research.google.com/drive/1LiZrpuE9ECFyLGaG0gwjRgKZxBK89n-m?usp=sharing)
+[View on PowerBI](https://app.powerbi.com/links/MmIKbKtBRl?ctid=5cdc5b43-d7be-4caa-8173-729e3b0a62d9&pbi_source=linkShare)
 
 ---
 
