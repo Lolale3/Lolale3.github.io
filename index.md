@@ -13,7 +13,7 @@ As a part of Data Science Olympians 2023 for Women in Big Data, I took part in t
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/BERT-white?logo=BERT)](#) [![](https://img.shields.io/badge/NLP-white?logo=NLP)](#)
 
 
-[View code on Colab](https://colab.research.google.com/drive/1A3k4fnIB35JXjbteRTUoQs-RqIkvhcZf?usp=sharing)
+[View code on Github]([https://colab.research.google.com/drive/1A3k4fnIB35JXjbteRTUoQs-RqIkvhcZf?usp=sharing](https://github.com/Lolale3/team_square_roots))
 
 ---
 ### Credit Risk Modeling and Scorecard Development
@@ -24,6 +24,15 @@ In this project, I used the chi-square and ANOVA F-statistics tests for feature 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Statistics-white?logo=Statistics)](#) [![](https://img.shields.io/badge/Weight_of_Evidence-white?logo=Weight_of_Evidence)](#) [![](https://img.shields.io/badge/Logistic_Regression-white?logo=Logistic_Regression)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1A3k4fnIB35JXjbteRTUoQs-RqIkvhcZf?usp=sharing)
+
+---
+### Marketing Campaign Optimization through Data Analysis
+Conducted a comprehensive exploratory data analysis on consumer data using Python to uncover insights that boosted targeted advertising effectiveness by 25%. Identified key patterns in campaign acceptance and applied Media-Mix Modeling, optimizing marketing strategies and driving an 18% increase in overall ROI. The project demonstrated the power of data-driven decision-making in refining marketing campaigns for maximum impact.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Statistical-Analysis-white?logo=Statistical_Analysis)](#)
+
+[View code on Github]([https://colab.research.google.com/drive/11lz-LDKWSfznJBP0jBtxoEJ3FsCmQEtx?usp=sharing](https://github.com/Lolale3/Marketing-Analysis))
+
 
 ---
 ### Marketing Analysis for Customer Segmentation
