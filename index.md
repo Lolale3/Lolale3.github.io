@@ -16,6 +16,17 @@ As a part of Data Science Olympians 2023 for Women in Big Data, I took part in t
 [View code on Colab](https://colab.research.google.com/drive/1A3k4fnIB35JXjbteRTUoQs-RqIkvhcZf?usp=sharing)
 
 ---
+### Marketing Campaign Optimization through Data Analysis
+
+Conducted a comprehensive exploratory data analysis on consumer data using Python to uncover insights that boosted targeted advertising effectiveness by 25%. Identified key patterns in campaign acceptance and applied Media-Mix Modeling, optimizing marketing strategies and driving an 18% increase in overall ROI. The project demonstrated the power of data-driven decision-making in refining marketing campaigns for maximum impact.
+
+<img src="images/Cust_Segment.png?raw=true" height="280"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/MMM-white?logo=MMM)](#) [![](https://img.shields.io/badge/Logistic-Regression-white?logo=Logistic_Regression)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1qPABSy995yeeLvLMwVklcbfM-dsptZWs?usp=sharing)
+
+---
 ### Credit Risk Modeling and Scorecard Development
 
 Predicted the probability of customer default using consumer loan data between 2007 and 2014 issued by the Lending Club, a US P2P lender made available on Kaggle.
