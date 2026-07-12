@@ -5,7 +5,7 @@ description: Data scientist building production AI systems and the analytics tha
 
 ## Featured
 
-### Gatekeeper — a confidence-gating layer for LLM extraction
+### Gatekeeper: A confidence-gating layer for LLM extraction
 
 An open-source Python library that decides, field by field, when to trust an LLM's extraction and when to escalate it to a human.
 
