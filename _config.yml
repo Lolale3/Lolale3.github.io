@@ -1,15 +1,13 @@
-title: Hindavi Churi # your name (or website title) here
-logo: "/images/Profile_1.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <be>
-  <h5>Highly focused and motivated individual with valuable experience in the field of data with projects on Machine Learning and Big Data. Proficient in Python scripting, interpreting, and generating high-scale results within tight deadlines. Possesses excellent communication skills and a strong desire to make a positive impact in the world.</h5>
+title: Hindavi Churi
+logo: "/images/Profile_1.jpg?raw=true"
+description: >
+  <h5>I build production AI systems — and the analytics that prove whether they actually work. Data scientist working on conversational AI, experimentation, and the reliability layers that decide when a model should act on its own and when it should ask for help.</h5>
   <br>
-  <a href="https://www.linkedin.com/in/hindavi-dinesh-churi/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/hindavi-dinesh-churi/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:YOUR_EMAIL_HERE">Email</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
 colors:
   crimson: '#900C3F'
