@@ -1,13 +1,3 @@
-# [Hindavi Churi](https://lolale3.github.io/)
-
-![Logo](https://lolale3.github.io/images/Profile_1.jpg?raw=true)
-
-##### I build production AI systems — and the analytics that prove whether they actually work. Currently a data scientist working on conversational AI, experimentation, and the reliability layers that decide when a model should act on its own and when it should ask for help.
-
-[LinkedIn](https://www.linkedin.com/in/hindavi-dinesh-churi/) &nbsp;·&nbsp; [GitHub](https://github.com/Lolale3) &nbsp;·&nbsp; [Email](mailto:hindavichuri01@gmail.com)
-
----
-
 ## Featured
 
 ### Gatekeeper — a confidence-gating layer for LLM extraction
@@ -58,13 +48,19 @@ Kaplan-Meier for the survival curves, Cox proportional hazards for the drivers.
 
 ### Sales Analytics & Customer Segmentation
 
-Segmented customers with RFM analysis across $10.1M in sales data, then used XGBoost and time-series forecasting to quantify what each segment was actually worth going forward — surfacing **$2.37M in revenue opportunities across 4 segments.**
+Analyzed $10.1M in sales data (2003–2005), then used RFM analysis to segment customers into four behavioral groups — and quantified what each was actually worth to go after.
 
-The point wasn't the clustering. It was connecting *who* a customer is to *what they're likely to be worth*, so the revenue impact of targeting one group over another is a number rather than a guess.
+The output wasn't a cluster plot. It was a ranked list of moves with revenue attached: **$2.37M in opportunity across four segments** — $1.29M from reactivating steady mid-tier buyers, $735K from bundling for price-sensitive infrequent ones, $185K from winning back inactive big-ticket customers, $162K from upselling the loyal core.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/RFM-white?logo=RFM)](#) [![](https://img.shields.io/badge/XGBoost-white?logo=XGBoost)](#) [![](https://img.shields.io/badge/Time_Series-white?logo=Time_Series)](#) [![](https://img.shields.io/badge/Forecasting-white?logo=Forecasting)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+![RFM customer segments](https://lolale3.github.io/images/cluster.png?raw=true)
 
-[View code](https://github.com/Lolale3/Sales-Analytics-Segmentation)
+Underneath it, a 3-quarter rolling YoY growth analysis by country surfaced where momentum was actually building versus where it was quietly dying — the UK up 38.3% in 2005 Q2, Singapore falling off a cliff, and the USA decelerating from 26.5% to 8.1%, an early saturation signal.
+
+![Rolling YoY growth by country](https://lolale3.github.io/images/YoY_Sales_Growth_sales.jpg?raw=true)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/RFM-white?logo=RFM)](#) [![](https://img.shields.io/badge/Segmentation-white?logo=Segmentation)](#) [![](https://img.shields.io/badge/Time_Series-white?logo=Time_Series)](#) [![](https://img.shields.io/badge/Cohort_Analysis-white?logo=Cohort_Analysis)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
+[View code](YOUR_SALES_ANALYTICS_LINK)
 
 ---
 
@@ -101,6 +97,8 @@ Top-5 visual similarity recommendations over Fashion-MNIST (70,000 images, 10 ap
 A Power BI dashboard tracking the metrics a marketing team actually gets judged on — ROAS, CAC, conversion rate, and cost per lead — so channel spend can be evaluated and reallocated rather than guessed at.
 
 Cleaned and modeled a year of operational data in Python underneath it, supporting agent performance tracking and funnel analysis.
+
+![Healthcare Marketing Dashboard](https://lolale3.github.io/images/Healthcare_dashboard.png?raw=true)
 
 [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Marketing_Analytics-white?logo=Marketing_Analytics)](#) [![](https://img.shields.io/badge/ROAS-white?logo=ROAS)](#) [![](https://img.shields.io/badge/Funnel_Analysis-white?logo=Funnel_Analysis)](#)
 
