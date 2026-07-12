@@ -1,3 +1,8 @@
+---
+layout: default
+description: Data scientist building production AI systems and the analytics that prove they work — reliability, experimentation, causal inference.
+---
+
 ## Featured
 
 ### Gatekeeper — a confidence-gating layer for LLM extraction
